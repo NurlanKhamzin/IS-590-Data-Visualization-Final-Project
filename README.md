@@ -1,5 +1,4 @@
 # IS-590-Data-Visualization-Final-Project
-# IS-590-Data-Visualization-Final-Project
 # 1.	What is your dataset?<br/>
 The project used two datasets of Chicago and New York City criminal accidents that have common data about time, types, and locations of the crimes.<br/>
 •	The size of your dataset<br/>
